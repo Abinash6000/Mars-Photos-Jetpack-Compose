@@ -18,8 +18,7 @@ Things Learnt
 * How to use the Coil library to load and display an image from a web URL. 
 * How to use a LazyVerticalGrid to display a grid of images. 
 * How to handle potential errors as the images download and display.
-* Repository pattern
-* Dependency injection
 
 Screenshots
 ---------------
+![image](https://github.com/user-attachments/assets/5c830e54-a9fe-4d86-8a46-766a721e2aa6)
